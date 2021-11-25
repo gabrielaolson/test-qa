@@ -8,7 +8,7 @@ Resource         ../Resources/Add_accounts.robot
 *** Variables ***
 ${START_URL}      https://seubarriga.wcaquino.me/login
 ${user_name}      Gabriela Olson
-${email}          gabiolson+211225@gmail.com
+${email}          gabiol+211224@gmail.com
 ${password}       @123456
 
 
