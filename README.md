@@ -1,4 +1,4 @@
-#Browser: playwright as a webdriver
+# Browser: playwright as a webdriver
 
 Instructions to install:
 https://github.com/MarketSquare/robotframework-browser
