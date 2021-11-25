@@ -21,7 +21,7 @@ Create movements
   Add Account Expenses              Home expenses
   Add Account Revenues              Rent
   Add Account Revenues              Other receipt
-  Wait Until Keyword Succeeds  2x  10s    Create movement expense pending
-  Wait Until Keyword Succeeds  2x  10s    Create movement expense paid
-  Wait Until Keyword Succeeds  2x  10s    Create movement revenue pending  
-  Wait Until Keyword Succeeds  2x  10s    Create movement revenue paid
+  Create movement expense pending
+  Create movement expense paid
+  Create movement revenue pending  
+  Create movement revenue paid
